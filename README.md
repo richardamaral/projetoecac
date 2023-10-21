@@ -13,7 +13,7 @@ Este projeto oferece uma solução automatizada para o processo de consultar e c
 
 - **AUTENTICAÇÃO E-CAC**: Utilizando o (Selenium e PyAutoGUI), insiro um certificado digital no navegador para conseguir realizar consultas no E-CAC.
 
-- **TÉCNICA DE ESPERA PROLONGADA**: Por conta do sistema do E-CAC ser bem inconsistente e fácil de dar erro nas páginas eu implementei um processo de espera despadronizado para simular uma interação humana contínua e ocorrer menos erros de requisição ao servidor.
+- **TÉCNICA DE ESPERA PROLONGADA**: Por conta do sistema do E-CAC ser bem inconsistente e fácil de dar erro nas páginas eu implementei um processo de espera fora do padrão para simular uma interação humana contínua e ocorrer menos erros de requisição ao servidor.
 
 - **ITERAÇÃO TABELA XPATH**: Depois de chegar aonde me deparei com as 100 páginas de 20 empresas cada dentro do E-CAC, precisei estudar os endereços XPATH do site para assim conseguir criar uma iteração que correspondesse aos dados que eu queria realizar a raspagem de forma correta.
 
