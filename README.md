@@ -17,11 +17,10 @@ Este projeto oferece uma solução automatizada para o processo de consultar e c
 
 - **ITERAÇÃO TABELA XPATH**: Depois de chegar aonde me deparei com as 100 páginas de 20 empresas cada dentro do E-CAC, precisei estudar os endereços XPATH do site para assim conseguir criar uma iteração que correspondesse aos dados que eu queria realizar a raspagem de forma correta.
 
-- - **ENVIO PARA AS LISTAS**: De acordo com a execução das iterações presentes no código, é possível ver uma função ".append" nela que eu enviei os dados do loop para a lista para realizar a criação da planilha com a biblioteca Pandas depois.
+- **ENVIO PARA AS LISTAS**: De acordo com a execução das iterações presentes no código, é possível ver uma função ".append" nela que eu enviei os dados do loop para a lista para realizar a criação da planilha com a biblioteca Pandas depois.
 
-- 
-
-- ****: Após o código ser executado é criada uma planilha com CNPJ/NOME/SITUACAO/DATA_VIGENCIA para facilitar a leitura e consulta e previsão de próximas expirações de outorga.
+  
+ ****: Após o código ser executado é criada uma planilha com CNPJ/NOME/SITUACAO/DATA_VIGENCIA para facilitar a leitura e consulta e previsão de próximas expirações de outorga.
 
 ## Como Usar
 
